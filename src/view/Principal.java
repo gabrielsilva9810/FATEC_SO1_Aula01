@@ -1,10 +1,17 @@
 package view;
 
+import controller.OperacoesController;
+
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//TESTE SEGUNDO COMMIT
+
+		OperacoesController op = new OperacoesController();
+		// op.concatenaString();
+		// op.concatenaBuffer();
+		
+		String frase = "Olá! Isso é um teste!";
+		op.divideFrase(frase);
 	}
 
 }

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Gabriel Silva\Area de Trabalho\FATEC\OneDrive - Fatec Centro Paula Souza\AULAS\3 SEMESTRE\SISTEMAS OPERACIONAIS I\PROJETOS_GITHUB\.metadata\.plugins\org.eclipse.jdt.core
+2509941820.index
+1865797976.index
+4020663458.index
